@@ -3,7 +3,7 @@ Control Hat for the Raspberry Pi
 
 This is a simple Hat that enables wireless control of the Raspberry Pi.
 
-
+![PCB-Top](images/pcb_top.png)
 
 Main features:
 - Wireless control using ESP8266-07 module
